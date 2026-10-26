@@ -1,0 +1,4 @@
+system dos
+name dist/JOIN.exe
+option quiet
+file build/join.obj

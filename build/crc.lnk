@@ -1,0 +1,4 @@
+system dos
+name dist/CRC.exe
+option quiet
+file build/crc.obj

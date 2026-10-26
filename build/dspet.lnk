@@ -1,0 +1,5 @@
+system windows
+name dist/DSPET.exe
+option quiet
+option stack=12k, heapsize=8k
+file build/main.obj, build/spr.obj, build/snd.obj, build/menu.obj, build/link.obj
